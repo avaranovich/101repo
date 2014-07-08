@@ -1,7 +1,0 @@
-{ 
-    "suffix" : ".zip", 
-    "metadata" : [
-      { "language" : "Zip" },
-      { "nature" : "archive" }
-    ]
-}

@@ -1,9 +1,0 @@
-[
-	{
-		"suffix" : ".xq",
-		"metadata" : [
-			{"geshi":"xml"},
-			{"language":"XQuery"}
-		]
-	}
-]

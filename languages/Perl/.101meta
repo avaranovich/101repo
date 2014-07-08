@@ -1,9 +1,0 @@
-[
-	{
-		"suffix" : ".pl",
-		"metadata" : [
-			{"geshi":"perl"},
-			{"language":"Perl"}
-		]
-	}
-]
